@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i hii hello how are you
+=======
+ i hii what are you doing
+>>>>>>> dev
